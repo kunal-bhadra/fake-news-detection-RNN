@@ -1,11 +1,11 @@
 
 # Fake News Detection with RNN 
 
-This is a project built while participating in the AIcrowd KIIT(AI) Mini Blitz Challenge and is the first out of the three puzzles given. We are given a train, test and val set and the objective is to submit a submission.csv with our predicted labels on the test set after modelling. For this, I went through several different approaches working with a total of 270,000 datapoints. 
+This is a project built while participating in the AIcrowd KIIT(AI) Mini Blitz Challenge and is the first one out of the three puzzles given. We are given a train, test and val set and the objective is to submit a submission.csv with our predicted labels on the test set after modelling. For this, I went through several different approaches working with a total of 270,000 datapoints. 
 
 
   
-## 🚀 The result
+## 🚀 The Result
 
 I was able to score a **F1 score of 0.949** on the test set and secured the first place for this specific puzzle as of now. 
  
